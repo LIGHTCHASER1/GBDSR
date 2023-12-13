@@ -1,0 +1,42 @@
+https://www.youtube.com/watch?v=zWwafM922C4
+
+Roger Guimerà et al. ,A Bayesian machine scientist to aid in the solution of challenging scientific problems.Sci. Adv.6,eaav6971(2020).DOI:10.1126/sciadv.aav6971
+
+sinh:5 cos:60 log:130 tanh:6 pow2:550 sub:530 abs:28 sqrt:130 cosh:3 fac:7 add:1500 **:700 exp:180 pow3:35 mul:3300 div:1400 sin:40 tan:2
+
+h:14 tri:102 exp:310 pows:1415 basic:6730 oth:35
+
+total:8606
+
+basic:78.20% pows:16.44% exps:3.6% tri:1.185% oth:0.4067% h:0.163%
+
+in basics:
+mul:49.03%
+add:22.28%
+div:20.80%
+sub:7.875%
+
+in pows:
+powsxy:49.47%
+sqrt: 9.187%
+pows2:38.87%
+pows3:2.473%
+
+in exps:
+exps:58.06%
+logs:41.94%
+
+in tris:
+cos:58.82%
+sin:39.22%
+tan:1.961%
+
+in hys:
+sinh:35.71%
+cosh:21.43%
+tanh:42.86%
+
+in others:
+abs:80%
+fac:20%
+

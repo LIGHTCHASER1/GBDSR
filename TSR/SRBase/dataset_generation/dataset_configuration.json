@@ -1,0 +1,19 @@
+{
+    "max_len" : 20,
+    "func_type_prob" : "basics:70,tris:5,exps:5,pows:15,hys:1,arcs:1,sbs:1,oths:2",
+    "basics_prob" : "mul:40,add:25,div:25,sub:10",
+    "tris_prob" : "cos:50,sin:45,tan:5",
+    "exps_prob" : "exp:50,log:40,log1p:5,expm1:5",
+    "pows_prob" : "pow:40,n2:35,sqrt:10,inv:10,n3:4,n4:1",
+    "hys_prob" : "sinh:30,cosh:20,tanh:50",
+    "arcs_prob": "arcsin:10,arccos:10,arctan:80",
+    "sbs_prob" : "neg:10,sign:10,abs:80",
+    "oths_prob" : "sigmoid:50,relu:40,erf:10",
+    "max_ops" : 5,
+    "max_variables_num": 3,
+    "variables_range": [-10, 10],
+    "scatters_num": 50,
+    "max_free_constants_num": 3,
+    "free_constants_range": [-2, 2],
+    "max_constants_num": 2
+}
